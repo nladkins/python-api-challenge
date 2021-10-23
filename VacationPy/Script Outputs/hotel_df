@@ -1,0 +1,24 @@
+index,City_ID,City,Cloudiness,Country,Date,Humidity,Lat,Lng,Temp,Wind,Hotel Name
+2,2,qaanaaq,25,GL,1558378755,73,77.48,-69.36,22.2,2.37,Qaanaaq Hotel
+16,16,vilyuysk,16,RU,1558378757,59,63.75,121.63,34.62,5.84,Gostinitsa Viliuisk
+61,61,zhigansk,97,RU,1558378765,84,66.77,123.37,27.24,8.77,Gostinichnyy Kompleks Aylgy
+63,63,pevek,93,RU,1558378765,71,69.7,170.27,26.16,4.65,Munitsipal'naya Gostinitsa
+65,65,bilibino,93,RU,1558378766,89,68.06,166.44,27.6,6.29,Profilaktoriy Baes
+71,71,qasigiannguit,90,GL,1558378767,86,68.82,-51.19,33.8,4.7,Hotel Diskobay
+136,136,iqaluit,90,CA,1558378780,86,63.75,-68.52,33.8,6.93,Frobisher Inn
+171,171,vitim,81,RU,1558378786,83,59.44,112.57,37.32,2.98,Gostinitsa V Apteke
+191,191,naryan-mar,0,RU,1558378791,90,67.67,53.09,27.24,8.19,Hotel North Palmyra
+194,194,beringovskiy,58,RU,1558378791,90,63.05,179.32,27.42,6.2,Beringgorski
+196,196,ilulissat,90,GL,1558378791,86,69.22,-51.1,33.8,4.7,Hotel Arctic
+207,207,mnogovershinnyy,100,RU,1558378793,96,53.94,139.92,39.12,8.05,Kvartsevaya Sopka
+241,241,anadyr,75,RU,1558378821,74,64.73,177.51,30.2,6.71,Chukotka hotel
+258,258,te anau,61,NZ,1558378834,93,-45.41,167.72,39.3,4.12,Kingsgate Hotel Te Anau
+313,313,loukhi,100,RU,1558378847,75,66.08,33.04,38.04,9.91,Remstroyrekonstruktsiya
+333,333,raduzhnyy,100,RU,1558378853,93,62.1,77.47,39.3,9.86,Gostiny Dvor Evgeniya
+347,347,tigil,33,RU,1558378856,92,57.8,158.67,36.6,4.59,Tigil'
+356,356,leh,33,IN,1558378857,51,34.16,77.58,25.8,3.58,"Hotel The Kaal, Leh, Ladakh"
+366,366,ust-barguzin,27,RU,1558378859,60,53.41,109.03,36.06,2.42,Alexander Beketov Guesthouse
+407,407,kyren,100,RU,1558378872,57,51.68,102.13,38.04,5.79,Tunka-350
+411,411,longyearbyen,75,NO,1558378873,74,78.22,15.63,28.4,5.82,"Radisson Blu Polar Hotel, Spitsbergen"
+422,422,susuman,0,RU,1558378875,75,62.78,148.15,22.38,3.15,Gostinitsa Susumanzoloto
+482,482,muravlenko,28,RU,1558378887,89,63.79,74.5,34.98,7.83,E-Hotel Muravlenko
